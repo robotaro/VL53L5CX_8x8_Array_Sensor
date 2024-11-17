@@ -37,4 +37,6 @@ SparkFun VL53L5CX Library: Install it via Tools -> Manage Libraries. Search for 
 SparkFun VL53L5CX
 ![sparkfun_lib.PNG](images/sparkfun_lib.PNG)
 
-## Wiring
+## Other useful references:
+
+- https://github.com/pimoroni/vl53l5cx-python
